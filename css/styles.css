@@ -1,0 +1,157 @@
+body{
+  margin:0;
+  text-align:center;
+  bottom-padding:0;
+
+}
+
+.greeting{
+  font-family: "Yellowtail",sans-serif;
+  font-size: 50px;
+  color:#47B5FF;
+}
+
+.top-container{
+  background-color: black;
+  color:white;
+  font-family:"Inconsolata",sans-serif;
+  font-size: 2.5rem;
+  position:relative;
+  padding:0;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  background-color: #47B5FF;
+  color: black;
+  padding-top:10px;
+  font-family: "Inconsolata",sans-serif;
+  font-size: 30px;
+
+}
+.about-me{
+  line-height: 2;
+  margin: auto;
+  text-align: justify;
+  width: 40%;
+}
+
+
+.contact-me{
+  background-color: #06283D;
+  color: white;
+  font-family: "Inconsolata",sans-serif;
+  font-size: 30px;
+  padding-top:5px;
+  padding-bottom: 40px;
+}
+.bottom-container{
+  background-color: black;
+  color:white;
+  font-family:"Inconsolata",sans-serif;
+  font-size: 30px;
+  position:relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+
+.profile-pic{
+  height:400px;
+}
+.color-text{
+  color:#1363DF;
+
+}
+.mountain{
+  position:relative;
+  bottom:0;
+  height:460px;
+}
+
+hr{
+  width: 4%;
+  border:none;
+  border-top: dotted;
+  border-top-width: 10px;
+  color:#06283D;
+  margin: 50px auto;
+}
+h2{
+  color:#1363DF;
+  font-size: 3rem;
+  font-weight: normal;
+}
+.skill-row{
+  width:75%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills-img-code{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+.skills-img-circuits{
+  width: 25%;
+  float: right;
+  margin-left: 30px
+}
+
+.skill-row{
+  width:75%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.footer-link{
+  text-decoration: none;
+  color:white;
+}
+
+.footer-link:hover{
+  color:#47B5FF;
+}
+.tec{
+  text-decoration: none;
+  color:#1363DF;
+}
+.tec:hover{
+  color:#DFF6FF;
+}
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: "Inconsolata",sans-serif;
+  color: #ffffff;
+  font-size: 30px;
+  background: #06283D;
+  padding: 10px 20px 10px 20px;
+  border: solid #47B5FF 4px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1363DF;
+  text-decoration: none;
+}
+
+.copyright{
+  font-size:  1rem;
+  padding: 20px 0;
+}
